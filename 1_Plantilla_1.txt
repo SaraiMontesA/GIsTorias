@@ -1,36 +1,37 @@
-###################################################################################################
-###################################################################################################
+1 #################################################################################################
 #####                                                                                         #####
-#####     TÍTULO DE LA GIsToria                                                               #####
-#####                                                                                         ##### 
+#####     Titulo de la GIsToria                                                               #####
+#####                                                                                         #####
+#####                                                                                         #####
+#####     lang = es                                                                           #####
+#####                                                                                         #####
 ###################################################################################################
-###################################################################################################
-
 
 En el tranquilo pueblo de Piedra Verde, donde las colinas se mecían suavemente al ritmo del viento, 
 había un secreto que todos compartían pero nadie se atrevía a mencionar. Se decía que en lo profun-
 do del bosque, donde los árboles se entrelazaban formando un dosel impenetrable, habitaba una cria-
 tura misteriosa. Los lugareños la llamaban "El Guardián del Bosque".
 
-########################################
+612 ####################################
 #####                              #####
 #####     Notas                    #####
 #####                              ##### 
 ########################################
 
 No borrar la parte de notas ni la de equipo de desarrollo, aunque la GIsToria se dé por terminada.
-La historia comienza en la fila 10, por lo que puede terminar como mucho en la fila 610
+Fila de inicio: 10
+Fila de fin: 610
 
-########################################
+622 ####################################
 #####                              #####
 #####     Equipo de desarrollo     #####
-#####                              ##### 
+#####                              #####
 ########################################
 
- Creación de plantilla: Sarai Montes
+ Creación de la plantilla: Sarai Montes
  
- Creación de la GIsToria: 
- 1 - Nombre Apellido
+ Creación de la GIsToria:
+ 1 - Nombre Apellido - Jefe de equipo
  2 - Nombre Apellido
  3 - Nombre Apellido
  4 - Nombre Apellido

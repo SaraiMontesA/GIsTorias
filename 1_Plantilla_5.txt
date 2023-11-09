@@ -1,11 +1,11 @@
-###################################################################################################
-###################################################################################################
+1 #################################################################################################
 #####                                                                                         #####
-#####     TÍTULO DE LA GIsToria                                                               #####
-#####                                                                                         ##### 
+#####     Titulo de la GIsToria                                                               #####
+#####                                                                                         #####
+#####                                                                                         #####
+#####     lang = es                                                                           #####
+#####                                                                                         #####
 ###################################################################################################
-###################################################################################################
-
 
 En el lejano planeta de Arcadia, donde los bosques bioluminiscentes iluminan la noche con una danza
 de colores, un antiguo artefacto ha sido descubierto por el joven arqueólogo, Liam. Se rumorea que
@@ -13,25 +13,26 @@ este artefacto, conocido como el Orbe de los Sueños, tiene el poder de revelar 
 fundos de los corazones. Pero a medida que Liam se adentra en su búsqueda, se da cuenta de que los
 sueños pueden convertirse en pesadillas.
 
-########################################
+612 ####################################
 #####                              #####
 #####     Notas                    #####
 #####                              ##### 
 ########################################
 
 No borrar la parte de notas ni la de equipo de desarrollo, aunque la GIsToria se dé por terminada.
-La historia comienza en la fila 10, por lo que puede terminar como mucho en la fila 610
+Fila de inicio: 10
+Fila de fin: 610
 
-########################################
+622 ####################################
 #####                              #####
 #####     Equipo de desarrollo     #####
-#####                              ##### 
+#####                              #####
 ########################################
 
- Creación de plantilla: Sarai Montes
+ Creación de la plantilla: Sarai Montes
  
- Creación de la GIsToria: 
- 1 - Nombre Apellido
+ Creación de la GIsToria:
+ 1 - Nombre Apellido - Jefe de equipo
  2 - Nombre Apellido
  3 - Nombre Apellido
  4 - Nombre Apellido

@@ -1,11 +1,11 @@
-###################################################################################################
-###################################################################################################
+1 #################################################################################################
 #####                                                                                         #####
-#####     TÍTULO DE LA GIsToria                                                               #####
-#####                                                                                         ##### 
+#####     Titulo de la GIsToria                                                               #####
+#####                                                                                         #####
+#####                                                                                         #####
+#####     lang = es                                                                           #####
+#####                                                                                         #####
 ###################################################################################################
-###################################################################################################
-
 
 En el corazón de la bulliciosa ciudad de Neón, donde los rascacielos se elevan hacia el cielo como 
 titanes de cristal y acero, se esconde un secreto oscuro. En un callejón olvidado, entre los neones
@@ -13,25 +13,26 @@ parpadeantes y el eco de pasos apresurados, yace una antigua puerta de madera. S
 conocen el código pueden entrar en el club conocido como "El Umbral", un lugar donde la realidad 
 se retuerce y los deseos se convierten en realidades palpables.
 
-########################################
+612 ####################################
 #####                              #####
 #####     Notas                    #####
 #####                              ##### 
 ########################################
 
 No borrar la parte de notas ni la de equipo de desarrollo, aunque la GIsToria se dé por terminada.
-La historia comienza en la fila 10, por lo que puede terminar como mucho en la fila 610
+Fila de inicio: 10
+Fila de fin: 610
 
-########################################
+622 ####################################
 #####                              #####
 #####     Equipo de desarrollo     #####
-#####                              ##### 
+#####                              #####
 ########################################
 
- Creación de plantilla: Sarai Montes
+ Creación de la plantilla: Sarai Montes
  
- Creación de la GIsToria: 
- 1 - Nombre Apellido
+ Creación de la GIsToria:
+ 1 - Nombre Apellido - Jefe de equipo
  2 - Nombre Apellido
  3 - Nombre Apellido
  4 - Nombre Apellido

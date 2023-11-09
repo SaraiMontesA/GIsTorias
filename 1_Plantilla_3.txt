@@ -1,11 +1,11 @@
-###################################################################################################
-###################################################################################################
+1 #################################################################################################
 #####                                                                                         #####
-#####     TÍTULO DE LA GIsToria                                                               #####
-#####                                                                                         ##### 
+#####     Titulo de la GIsToria                                                               #####
+#####                                                                                         #####
+#####                                                                                         #####
+#####     lang = es                                                                           #####
+#####                                                                                         #####
 ###################################################################################################
-###################################################################################################
-
 
 En el tranquilo pueblo de Rivertown, donde el río serpentea pacíficamente entre los sauces lloro-
 nes, existe una leyenda que ha perdurado por generaciones. Cuentan que, una vez cada siglo, el es-
@@ -13,25 +13,26 @@ píritu del viejo molinero regresa para buscar a alguien que lo ayude a cumplir 
 en el tiempo. Y este siglo, ese alguien es Emma, ​​una joven con un don especial para escuchar las
 voces del pasado.
 
-########################################
+612 ####################################
 #####                              #####
 #####     Notas                    #####
 #####                              ##### 
 ########################################
 
 No borrar la parte de notas ni la de equipo de desarrollo, aunque la GIsToria se dé por terminada.
-La historia comienza en la fila 10, por lo que puede terminar como mucho en la fila 610
+Fila de inicio: 10
+Fila de fin: 610
 
-########################################
+622 ####################################
 #####                              #####
 #####     Equipo de desarrollo     #####
-#####                              ##### 
+#####                              #####
 ########################################
 
- Creación de plantilla: Sarai Montes
+ Creación de la plantilla: Sarai Montes
  
- Creación de la GIsToria: 
- 1 - Nombre Apellido
+ Creación de la GIsToria:
+ 1 - Nombre Apellido - Jefe de equipo
  2 - Nombre Apellido
  3 - Nombre Apellido
  4 - Nombre Apellido

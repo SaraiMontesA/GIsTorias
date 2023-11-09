@@ -31,7 +31,7 @@ En este repositorio vamos a ir creando diferentes historias, pero para ello vamo
 
     · Todas las historias tendrán una cabecera en la que en algún momento pondremos el título, la anchura de esa cabecera es de 100 caracteres, no se puede modificar y determina la anchura máxima de cada línea de texto.
 
-    · La lárgura máxima de las historias será de 600 líneas. (No hace falta ir númerando las líneas, ya que VSCode nos muestra el número de línea en la que trabajamos)
+    · La largura máxima de las historias será de 600 líneas. (No hace falta ir númerando las líneas, ya que VSCode nos muestra el número de línea en la que trabajamos)
 
     · Si en algún momento consideramos, de manera consensuada en el equipo, que hemos terminado la historia, entonces la daremos por finalizada. La manera de mostrar a las personas ajenas al equipo que ya está terminada será cambiar el nombre del archivo y ponerle de nombre el título de la historia. Dicho nombre tendrá que estar escrito utilizando snake_case.
  

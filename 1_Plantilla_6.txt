@@ -1,11 +1,11 @@
-###################################################################################################
-###################################################################################################
+1 #################################################################################################
 #####                                                                                         #####
-#####     TÍTULO DE LA GIsToria                                                               #####
-#####                                                                                         ##### 
+#####     Titulo de la GIsToria                                                               #####
+#####                                                                                         #####
+#####                                                                                         #####
+#####     lang = es                                                                           #####
+#####                                                                                         #####
 ###################################################################################################
-###################################################################################################
-
 
 En el silencioso pueblo de Dunhaven, donde las sombras parecen cobrar vida en la luz de la luna, se
 encuentra la tienda de antigüedades de Madame Lorraine. Dicen que las reliquias que venden tienen
@@ -13,25 +13,26 @@ el poder de traer los sueños a la realidad, pero a un precio. Cuando Sarah, una
 respuestas, cruza el umbral de la tienda, se encuentra enredada en un juego peligroso con fuerzas
 más allá de su comprensión.
 
-########################################
+612 ####################################
 #####                              #####
 #####     Notas                    #####
-#####                              #####
-########################################
-
-No borrar la parte de notas ni la de equipo de desarrollo, aunque la GIsToria se dé por terminada.
-La historia comienza en la fila 10, por lo que puede terminar como mucho en la fila 610
-
-########################################
-#####                              #####
-#####     Equipo de desarrollo     #####
 #####                              ##### 
 ########################################
 
- Creación de plantilla: Sarai Montes
+No borrar la parte de notas ni la de equipo de desarrollo, aunque la GIsToria se dé por terminada.
+Fila de inicio: 10
+Fila de fin: 610
+
+622 ####################################
+#####                              #####
+#####     Equipo de desarrollo     #####
+#####                              #####
+########################################
+
+ Creación de la plantilla: Sarai Montes
  
- Creación de la GIsToria: 
- 1 - Nombre Apellido
+ Creación de la GIsToria:
+ 1 - Nombre Apellido - Jefe de equipo
  2 - Nombre Apellido
  3 - Nombre Apellido
  4 - Nombre Apellido
