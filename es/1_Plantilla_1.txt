@@ -31,7 +31,7 @@ Fila de fin: 610
  Creación de la plantilla: Sarai Montes
  
  Creación de la GIsToria:
- 1 - Nombre Apellido - Jefe de equipo
+ 1 - Carlos Llatser - Jefe de equipo
  2 - Nombre Apellido
  3 - Nombre Apellido
  4 - Nombre Apellido
