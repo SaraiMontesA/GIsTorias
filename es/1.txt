@@ -21,7 +21,7 @@ más allá de su comprensión.
 
 No borrar la parte de notas ni la de equipo de desarrollo, aunque la GIsToria se dé por terminada.
 Fila de inicio: 10
-Fila de fin: 610
+Fila de fin, máximo: 610
 
 622 ####################################
 #####                              #####
