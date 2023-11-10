@@ -1,0 +1,44 @@
+1 #################################################################################################
+#####                                                                                         #####
+#####     Titulo de la GIsToria                                                               #####
+#####                                                                                         #####
+#####                                                                                         #####
+#####     lang = es                                                                           #####
+#####                                                                                         #####
+###################################################################################################
+
+En el silencioso pueblo de Dunhaven, donde las sombras parecen cobrar vida en la luz de la luna, se
+encuentra la tienda de antigüedades de Madame Lorraine. Dicen que las reliquias que venden tienen
+el poder de traer los sueños a la realidad, pero a un precio. Cuando Sarah, una joven en busca de
+respuestas, cruza el umbral de la tienda, se encuentra enredada en un juego peligroso con fuerzas
+más allá de su comprensión.
+
+612 ####################################
+#####                              #####
+#####     Notas                    #####
+#####                              ##### 
+########################################
+
+No borrar la parte de notas ni la de equipo de desarrollo, aunque la GIsToria se dé por terminada.
+Fila de inicio: 10
+Fila de fin: 610
+
+622 ####################################
+#####                              #####
+#####     Equipo de desarrollo     #####
+#####                              #####
+########################################
+
+ Creación de la plantilla: Carlos Llatser
+ 
+ Creación de la GIsToria:
+ 1 - Carlos Llatser - Jefe de equipo
+ 2 - Nombre Apellido
+ 3 - Nombre Apellido
+ 4 - Nombre Apellido
+ 5 - Nombre Apellido
+ 6 - Nombre Apellido
+ 7 - Nombre Apellido
+ 8 - Nombre Apellido
+ 9 - Nombre Apellido
+10 - Nombre Apellido
