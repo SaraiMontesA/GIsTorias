@@ -34,7 +34,7 @@ Fila de fin, máximo: 610
  Creación de la GIsToria:
  1 - Carlos Llatser - Jefe de equipo
  2 - Jose A. Genao 
- 3 - Nombre Apellido
+ 3 - Manuel Fernández
  4 - Nombre Apellido
  5 - Nombre Apellido
  6 - Nombre Apellido
