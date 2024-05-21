@@ -14,7 +14,10 @@ respuestas, cruza el umbral de la tienda, se encuentra enredada en un juego peli
 más allá de su comprensión.
 
 Sarah, se adentró en la tienda, confiada en encontrar respuestas sobre su hermana desaparecida hace 
-solo unos días y una pista le llevó a ese lugar algo siniestro en un pueblo casi abandonado.
+solo unos días y una pista le llevó a ese lugar algo siniestro en un pueblo casi abandonado. Un 
+personaje algo tétrico se le acercó por la espalda y con una voz aguda le preguntó:
+
+  - ¿Le puedo servir en algo? -dijo el hombre con una sonrisa algo espeluznante.
 
 612 ####################################
 #####                              #####
