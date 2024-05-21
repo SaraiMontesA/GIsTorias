@@ -13,6 +13,12 @@ el poder de traer los sueños a la realidad, pero a un precio. Cuando Sarah, una
 respuestas, cruza el umbral de la tienda, se encuentra enredada en un juego peligroso con fuerzas
 más allá de su comprensión.
 
+Sarah, se adentró en la tienda, confiada en encontrar respuestas sobre su hermana desaparecida hace 
+solo unos días y una pista le llevó a ese lugar algo siniestro en un pueblo casi abandonado. Un 
+personaje algo tétrico se le acercó por la espalda y con una voz aguda le preguntó:
+
+  - ¿Le puedo servir en algo? -dijo el hombre con una sonrisa algo espeluznante.
+
 612 ####################################
 #####                              #####
 #####     Notas                    #####
@@ -34,7 +40,7 @@ Fila de fin, máximo: 610
  Creación de la GIsToria:
  1 - Carlos Llatser - Jefe de equipo
  2 - Jose A. Genao 
- 3 - Nombre Apellido
+ 3 - Manuel Fernández
  4 - Nombre Apellido
  5 - Nombre Apellido
  6 - Nombre Apellido
